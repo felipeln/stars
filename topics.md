@@ -71,6 +71,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
@@ -81,6 +82,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [microsoft](#microsoft)
+- [monero](#monero)
 - [music](#music)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -91,7 +93,9 @@
 - [opencv](#opencv)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [php](#php)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -114,6 +118,7 @@
 - [shell](#shell)
 - [software](#software)
 - [solidity](#solidity)
+- [sqlite](#sqlite)
 - [terminal](#terminal)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -135,6 +140,8 @@
 
 ## ai 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
@@ -147,6 +154,7 @@
 
 ## android 
 
+- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -162,6 +170,7 @@
 
 ## automation 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 
@@ -235,6 +244,7 @@
 
 ## bitcoin 
 
+- [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
 - [OffcierCia/ultimate-defi-research-base](https://github.com/OffcierCia/ultimate-defi-research-base) - Here we collect and discuss the best DeFI & Blockchain researches and tools. Feel free to DM me on Twitter or open pool request.
 
 ## blockchain 
@@ -261,6 +271,7 @@
 
 ## cli 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
@@ -309,10 +320,12 @@
 
 ## cybersecurity 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 
 ## data 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 
 ## data-science 
@@ -327,6 +340,7 @@
 
 ## database 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
 ## deno 
@@ -448,6 +462,7 @@
 
 ## go 
 
+- [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
@@ -455,6 +470,9 @@
 
 ## golang 
 
+- [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
+- [pluja/blogo](https://github.com/pluja/blogo) - A lightweight blogging engine that backs itself up to Nostr!
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
@@ -479,6 +497,8 @@
 
 ## hacktoberfest 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -566,6 +586,10 @@
 
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
+## kotlin 
+
+- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
+
 ## kubernetes 
 
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -584,6 +608,7 @@
 
 ## linux 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [FreshTomato-Project/freshtomato-ax](https://github.com/FreshTomato-Project/freshtomato-ax) - Alternative open source firmware for Broadcom based routers
 - [FreshTomato-Project/freshtomato-arm](https://github.com/FreshTomato-Project/freshtomato-arm) - Alternative open source firmware for Broadcom based routers
 - [FreshTomato-Project/freshtomato-mips](https://github.com/FreshTomato-Project/freshtomato-mips) - Alternative open source firmware for Broadcom based routers
@@ -620,8 +645,13 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
+## monero 
+
+- [pluja/nerostr](https://github.com/pluja/nerostr) - nostr paid relay, but with monero
+
 ## music 
 
+- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 
@@ -665,10 +695,15 @@
 
 ## osint 
 
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )  + Web App
 
 ## others 
 
+- [basicswap/basicswap](https://github.com/basicswap/basicswap) - Basic Atomic Swap Proof of Concept
+- [going-doer/Paper2Code](https://github.com/going-doer/Paper2Code) - Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
+- [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
+- [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee) - 🐝 AI-powered browser assistant ("Cline for web browsing")
 - [Flomza/prerequisite-math-academy](https://github.com/Flomza/prerequisite-math-academy) - Remedial Math for OSSU.
 - [burnt0rice/excalidraw-desktop](https://github.com/burnt0rice/excalidraw-desktop) - A lightweight, privacy-friendly desktop wrapper for Excalidraw, built using Tauri
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
@@ -727,9 +762,17 @@
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) - :microscope: Espaço para divulgação de vagas para front-enders.
 
+## p2p 
+
+- [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
+
 ## penetration-testing 
 
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) - A powerful and open-source toolkit for hackers and security automation - 安全行业从业者自研开源扫描器合辑
+
+## pentesting 
+
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
 ## php 
 
@@ -743,6 +786,7 @@
 
 ## privacy 
 
+- [RoboSats/robosats](https://github.com/RoboSats/robosats) - A simple and private bitcoin exchange
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
@@ -766,6 +810,8 @@
 
 ## python 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
@@ -775,6 +821,8 @@
 
 ## python3 
 
+- [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 
 ## raspberry-pi 
@@ -810,6 +858,7 @@
 
 ## rust 
 
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -818,6 +867,7 @@
 
 ## security 
 
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [Am0rphous/Awesome](https://github.com/Am0rphous/Awesome) - Awesome collection of resources 😎 Work in progress🔥
 - [yokoffing/filterlists](https://github.com/yokoffing/filterlists) - Collection of blocklists to fill in the gaps
 - [wh0isdxk/DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro) - Principios e Boas Práticas sobre Desenvolvimento Seguro
@@ -849,6 +899,10 @@
 ## solidity 
 
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
+
+## sqlite 
+
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 
 ## terminal 
 
@@ -885,6 +939,7 @@
 
 ## ui 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [RonenNess/RPGUI](https://github.com/RonenNess/RPGUI) - Lightweight framework for old-school RPG GUI in web!
 
 ## vim 
@@ -910,6 +965,7 @@
 
 ## web 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [imteekay/web-performance-research](https://github.com/imteekay/web-performance-research) - ⚡️ Research in Web Performance
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -922,6 +978,7 @@
 
 ## webapp 
 
+- [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## webpack 
@@ -950,6 +1007,7 @@
 
 ## zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
