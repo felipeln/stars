@@ -82,6 +82,7 @@
 
 ## HTML 
 
+- [ossu/precollege-math](https://github.com/ossu/precollege-math) - 
 - [kananinirav/AWS-Certified-Cloud-Practitioner-Notes](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes) - AWS Certified Cloud Practitioner Short Notes And Practice Exams (CLF-C02)
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates) - This repository contains best profile readme's for your reference.
@@ -134,6 +135,7 @@
 
 ## Others 
 
+- [ossu/math](https://github.com/ossu/math) - 🧮  Path to a free self-taught education in Mathematics!
 - [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
 - [Flomza/prerequisite-math-academy](https://github.com/Flomza/prerequisite-math-academy) - Remedial Math for OSSU.
 - [TeoMeWhy/teomerefs](https://github.com/TeoMeWhy/teomerefs) - Guia de referências técnicas para carreira em dados
@@ -261,6 +263,7 @@
 
 ## TypeScript 
 
+- [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee) - 🐝 AI-powered browser assistant ("Cline for web browsing")
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
