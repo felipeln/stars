@@ -240,6 +240,8 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [microsoft/edit](https://github.com/microsoft/edit) - We all edit.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -268,6 +270,7 @@
 
 ## TypeScript 
 
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
 - [parsaghaffari/browserbee](https://github.com/parsaghaffari/browserbee) - 🐝 AI-powered browser assistant ("Cline for web browsing")
