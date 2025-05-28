@@ -10,6 +10,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -21,6 +22,7 @@
 - [Markdown](#markdown)
 - [Nunjucks](#nunjucks)
 - [Others](#others)
+- [PHP](#php)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
@@ -50,17 +52,25 @@
 
 ## C# # 
 
+- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [U-C-S/Hurl](https://github.com/U-C-S/Hurl) - Choose the browser on the click of a link
 - [mortenn/BrowserPicker](https://github.com/mortenn/BrowserPicker) - Smart browser selector for Windows
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 
 ## C++ 
 
+- [bablosoft/BAS](https://github.com/bablosoft/BAS) - BrowserAutomationStudio can automate everything that Chrome can.
+- [FPEsocrter/openFpchromium](https://github.com/FPEsocrter/openFpchromium) - openFpchromium,支援 chromium 开发 开源指纹游览器
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
 - [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Cross-platform automation tool
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
+
+## CSS 
+
+- [rippedpiracy/site](https://github.com/rippedpiracy/site) - 
 
 ## Clojure 
 
@@ -94,10 +104,12 @@
 
 ## Java 
 
+- [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [RaiMan/SikuliX1](https://github.com/RaiMan/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 
 ## JavaScript 
 
+- [CheshireCaat/browser-with-fingerprints](https://github.com/CheshireCaat/browser-with-fingerprints) - Anonymous automation with fingerprint replacement technology.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [burnt0rice/excalidraw-desktop](https://github.com/burnt0rice/excalidraw-desktop) - A lightweight, privacy-friendly desktop wrapper for Excalidraw, built using Tauri
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -142,6 +154,9 @@
 
 ## Others 
 
+- [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
+- [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) - 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
+- [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [andreyolv/learning](https://github.com/andreyolv/learning) - 
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
@@ -214,6 +229,10 @@
 - [felipefialho/frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 - [frontendbr/vagas](https://github.com/frontendbr/vagas) - :microscope: Espaço para divulgação de vagas para front-enders.
 
+## PHP 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
 ## Pascal 
 
 - [sebaxakerhtc/rdpwrap](https://github.com/sebaxakerhtc/rdpwrap) - RDP Wrapper Library
@@ -226,6 +245,13 @@
 
 ## Python 
 
+- [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
+- [uxumax/docker-wine-chrome-nodriver](https://github.com/uxumax/docker-wine-chrome-nodriver) - This project facilitates running a Windows Chrome antidetect browser using the Nodriver automation library within a Docker Linux container with Wine. This setup eliminates the need for a Windows virtu
+- [clienthold/Antic-Browser](https://github.com/clienthold/Antic-Browser) - Free Open Source Antidetect Browser
+- [browser-use/web-ui](https://github.com/browser-use/web-ui) - 🖥️ Run AI Agent in your browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [undetectable-io/Undetectable-profile-creation-Selenium](https://github.com/undetectable-io/Undetectable-profile-creation-Selenium) - How to create Undetectable profiles with API, set proxies in profiles and connect them with Selenium using Python
+- [omkarcloud/botasaurus](https://github.com/omkarcloud/botasaurus) - The All in One Framework to Build Undefeatable Scrapers
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [basicswap/basicswap](https://github.com/basicswap/basicswap) - Basic Atomic Swap Proof of Concept
@@ -278,6 +304,8 @@
 
 ## TypeScript 
 
+- [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+- [ulixee/hero](https://github.com/ulixee/hero) - The web browser built for scraping
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code (prev. Roo Cline) gives you a whole dev team of AI agents in your code editor.
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets, text expansion, and editor enhancements
 - [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin) - A plugin to edit and view Excalidraw drawings in Obsidian
