@@ -400,6 +400,7 @@
 
 ## Others 
 
+- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia/Tutorial rápido do WSL2 + Docker
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
@@ -426,7 +427,6 @@
 - [brunorrr/Anotacoes-AWS-Cloud-Practitioner-Certified](https://github.com/brunorrr/Anotacoes-AWS-Cloud-Practitioner-Certified) - Conjunto de anotações para a certificação AWS Cloud Practitioner
 - [anabastos/awesome-pesquisa](https://github.com/anabastos/awesome-pesquisa) - Curated list of research content in portuguese
 - [girliemac/a-picture-is-worth-a-1000-words](https://github.com/girliemac/a-picture-is-worth-a-1000-words) - I am trying to describe complex matters in simple doodles!
-- [codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) - Guia/Tutorial rápido do WSL2 + Docker
 - [Ishanoshada/GDorks](https://github.com/Ishanoshada/GDorks) - Google Dork List - Uncover the Hidden Gems of the Internet ( There are at least 320+ categories )  + Web App
 - [alinebastos/fullstack-challenges](https://github.com/alinebastos/fullstack-challenges) - Open source's challenges of full-stack jobs to test your skills
 - [wh0isdxk/DesenvolvimentoSeguro](https://github.com/wh0isdxk/DesenvolvimentoSeguro) - Principios e Boas Práticas sobre Desenvolvimento Seguro
@@ -492,6 +492,31 @@
 
 ## Python 
 
+- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
@@ -527,7 +552,6 @@
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [pluja/rokokeys](https://github.com/pluja/rokokeys) - Backup your crypto wallet mnemonic seeds in a safe way.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
 ## Rust 
