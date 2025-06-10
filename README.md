@@ -666,6 +666,7 @@
 
 ## Svelte 
 
+- [bonartm/quizdown-js](https://github.com/bonartm/quizdown-js) - Markdown syntax for generating interactive quizzes in the browser
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [rishikanthc/Scriberr](https://github.com/rishikanthc/Scriberr) - Self-hosted AI audio transcription
 - [ReVanced/revanced-website](https://github.com/ReVanced/revanced-website) - 🌐 Website for ReVanced
