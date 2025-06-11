@@ -673,6 +673,8 @@
 
 ## TypeScript 
 
+- [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡
+- [wslyvh/useWeb3](https://github.com/wslyvh/useWeb3) - useWeb3 provides a curated overview of the best and latest resources on Ethereum, blockchain and Web3 development.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [onejs/one](https://github.com/onejs/one) - ❶ One is a new React framework - target web and native with a single Vite plugin and fully shared code, so you can ship cross-platform nearly as easy as single-platform.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
