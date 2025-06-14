@@ -139,6 +139,7 @@
 
 ## C++ 
 
+- [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
@@ -484,6 +485,7 @@
 
 ## PHP 
 
+- [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## Pascal 
@@ -498,6 +500,9 @@
 
 ## Python 
 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
@@ -568,6 +573,9 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
+- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
@@ -678,6 +686,8 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [secretkeylabs/xverse-core](https://github.com/secretkeylabs/xverse-core) - Core library for Xverse wallet
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
 - [wslyvh/nexth](https://github.com/wslyvh/nexth) - A Next.js + Ethereum starter kit with Viem, Wagmi, Web3Modal, SIWE, Tailwind, daisyUI and more to quickly ship production-ready Web3 Apps ⚡
