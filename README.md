@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Cython](#cython)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
@@ -131,6 +132,8 @@
 
 ## C# # 
 
+- [ngochoaitn/GPMLoginApiV2_UndetectedByDriver](https://github.com/ngochoaitn/GPMLoginApiV2_UndetectedByDriver) - 
+- [buiducduy111/GPMLoginApiV2](https://github.com/buiducduy111/GPMLoginApiV2) - GPM LOGIN API V2 Sample
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [woolball-xyz/woolball-server](https://github.com/woolball-xyz/woolball-server) - Your own browser-based inference infrastructure by turning idle browsers into compute nodes.
 - [skills/secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
@@ -180,6 +183,11 @@
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## Cython 
+
+- [hansalemaos/cyandrocel](https://github.com/hansalemaos/cyandrocel) - Android Automation Framework for real devices without root access with multiple backends (uiautomator, uiautomator2, fragment parser, tesseract ...)!
+- [hansalemaos/cyandroemu](https://github.com/hansalemaos/cyandroemu) - Android Automation Framework for Python on emulators (BlissOs, BlueStacks, LDPlayer, Memu, Mumu, Android Studio ...) and rooted devices WITHOUT ADB!
 
 ## Dockerfile 
 
@@ -349,6 +357,7 @@
 
 ## JavaScript 
 
+- [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration for Nuxt 2
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
@@ -519,6 +528,10 @@
 
 ## Python 
 
+- [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [mitmproxy/android-unpinner](https://github.com/mitmproxy/android-unpinner) - Remove Certificate Pinning from APKs
+- [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
+- [assetnote/nowafpls](https://github.com/assetnote/nowafpls) - Burp Plugin to Bypass WAFs through the insertion of Junk Data
 - [Open-Deep-ML/DML-OpenProblem](https://github.com/Open-Deep-ML/DML-OpenProblem) - 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [bghira/SimpleTuner](https://github.com/bghira/SimpleTuner) - A general fine-tuning kit geared toward diffusion models.
@@ -721,6 +734,11 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
+- [nuxt-community/auth-module](https://github.com/nuxt-community/auth-module) - Zero-boilerplate authentication support for Nuxt 2
+- [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack) - A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations
 - [Cyfrin/chain-tools](https://github.com/Cyfrin/chain-tools) - A site for gas tools, fees, and more
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
@@ -729,7 +747,7 @@
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
-- [getmaxun/maxun](https://github.com/getmaxun/maxun) - Open-Source No Code Web Data Extraction Platform • Turn Websites To APIs & Spreadsheets In Minutes!
+- [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 No Code Web Data Extraction Platform • Open-Source Alternative To Octoparse, ParseHub 🔥
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [secretkeylabs/xverse-core](https://github.com/secretkeylabs/xverse-core) - Core library for Xverse wallet
