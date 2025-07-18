@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
 - [Kam1k4dze/SubChat](https://github.com/Kam1k4dze/SubChat) - SubChat is a command-line and GUI toolset for generating YouTube subtitles from chat logs.
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
@@ -483,7 +484,7 @@
 
 ## Nushell 
 
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - zellij, yazi with nushell, lua and nix scripting add a File Tree to Helix in an IDE-like experience
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - zellij, yazi with nushell/lua/nix scripting add a File Tree to Helix or your prefered editor. An IDE-like experience, in the terminal
 
 ## Others 
 
@@ -850,7 +851,7 @@
 - [bewcloud/bewcloud](https://github.com/bewcloud/bewcloud) - A simpler alternative to Nextcloud and ownCloud, built with TypeScript and Deno using Fresh. 🦕 🍋
 - [garden-co/jazz](https://github.com/garden-co/jazz) - Toolkit for backendless apps
 - [browser-use/workflow-use](https://github.com/browser-use/workflow-use) - ⚙️ Create and run workflows (RPA 2.0)
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of rules, tools, and models
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
