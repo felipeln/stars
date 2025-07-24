@@ -406,6 +406,7 @@
 
 ## awesome 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -439,6 +440,7 @@
 
 ## awesome-list 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [raphamorim/awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
@@ -875,6 +877,7 @@
 
 ## design 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
@@ -1459,7 +1462,7 @@
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [Virtual-Coffee/intro](https://github.com/Virtual-Coffee/intro) - Empowering Your Open Source Journey: From First Contribution to Project Leadership
+- [OpenSource-Communities/intro](https://github.com/OpenSource-Communities/intro) - Empowering Your Open Source Journey: From First Contribution to Project Leadership
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An undetectable, powerful, flexible, high-performance Python library to make Web Scraping Easy and Effortless as it should be!
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -1583,6 +1586,7 @@
 
 ## javascript 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -2016,6 +2020,7 @@
 
 ## no-code 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -2038,6 +2043,7 @@
 
 ## nodejs 
 
+- [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
@@ -2114,7 +2120,7 @@
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [YouTube-Enhancer/extension](https://github.com/YouTube-Enhancer/extension) - A browser extension to enhance YouTube
-- [Virtual-Coffee/intro](https://github.com/Virtual-Coffee/intro) - Empowering Your Open Source Journey: From First Contribution to Project Leadership
+- [OpenSource-Communities/intro](https://github.com/OpenSource-Communities/intro) - Empowering Your Open Source Journey: From First Contribution to Project Leadership
 - [frappe/lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
@@ -2163,10 +2169,13 @@
 
 ## others 
 
+- [alchemyplatform/smart-wallets-quickstart](https://github.com/alchemyplatform/smart-wallets-quickstart) - NextJS template for embedded accounts UI components alpha quickstart guide
+- [PatrickAlphaC/wise-signer-snap](https://github.com/PatrickAlphaC/wise-signer-snap) - 
+- [shafu0x/awesome-smart-contracts](https://github.com/shafu0x/awesome-smart-contracts) - The best smart contracts in one place.
 - [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Kanban board to manage your AI coding agents
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [stevedylandev/bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [BrowserMCP/mcp](https://github.com/BrowserMCP/mcp) - Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser
