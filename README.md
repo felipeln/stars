@@ -142,6 +142,7 @@
 
 ## C# # 
 
+- [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 - [ngochoaitn/GPMLoginApiV2_UndetectedByDriver](https://github.com/ngochoaitn/GPMLoginApiV2_UndetectedByDriver) - 
 - [buiducduy111/GPMLoginApiV2](https://github.com/buiducduy111/GPMLoginApiV2) - GPM LOGIN API V2 Sample
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
@@ -844,6 +845,7 @@
 
 ## TypeScript 
 
+- [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [alchemyplatform/smart-wallets-quickstart](https://github.com/alchemyplatform/smart-wallets-quickstart) - NextJS template for embedded accounts UI components alpha quickstart guide
 - [PatrickAlphaC/wise-signer-snap](https://github.com/PatrickAlphaC/wise-signer-snap) - 
