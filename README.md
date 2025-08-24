@@ -142,6 +142,7 @@
 
 ## C# # 
 
+- [aleenzz/ChromeExtensionInstall](https://github.com/aleenzz/ChromeExtensionInstall) - Silently Install Chrome Extension For Persistence
 - [ChoiSG/SharpSilentChrome](https://github.com/ChoiSG/SharpSilentChrome) - SharpSilentChrome is a C# project that "silently" installs browser extensions on Google Chrome or MS Edge by updating the browsers' Preferences and Secure Preferences files. Currently, it only support
 - [1Remote/1Remote](https://github.com/1Remote/1Remote) - One Remote Access Manager to Rule Them All
 - [ngochoaitn/GPMLoginApiV2_UndetectedByDriver](https://github.com/ngochoaitn/GPMLoginApiV2_UndetectedByDriver) - 
