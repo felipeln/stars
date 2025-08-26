@@ -864,7 +864,7 @@
 ## TypeScript 
 
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
-- [botswin/BotBrowser](https://github.com/botswin/BotBrowser) - 🤖 Bypasses Cloudflare, Shape, PerimeterX, Datadome, Akamai, Kasada, hCaptcha, FunCaptcha and reCAPTCHA with unmatched reliability - powered by a modified Chromium core
+- [botswin/BotBrowser](https://github.com/botswin/BotBrowser) - 🤖 Cross-platform modified Chromium build for benchmarking automation compatibility with: Cloudflare, Akamai, Kasada, F5 Shape, reCAPTCHA, PerimeterX, Imperva, DataDome, hCaptcha, FunCaptcha
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
 - [alchemyplatform/smart-wallets-quickstart](https://github.com/alchemyplatform/smart-wallets-quickstart) - NextJS template for embedded accounts UI components alpha quickstart guide
