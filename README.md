@@ -371,6 +371,7 @@
 
 ## HTML 
 
+- [rohitg00/awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps) - A curated collection of awesome AI Agents and LLM Apps built with multiple tech stacks, showcasing real-world implementations using OpenAI, Gemini, local models, and various AI frameworks.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [automationneemo/PlaywrightDemoYt](https://github.com/automationneemo/PlaywrightDemoYt) - 
@@ -901,7 +902,7 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [browserbase/stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework
