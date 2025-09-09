@@ -24,6 +24,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -535,6 +536,10 @@
 - [pluja/maestro](https://github.com/pluja/maestro) - Turn natual language into commands. Your CLI tasks, now as easy as a conversation. Run it 100% offline, or use OpenAI's models.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## beginner-project 
+
+- [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 
 ## bitcoin 
 
