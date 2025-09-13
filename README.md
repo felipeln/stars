@@ -606,6 +606,7 @@
 
 ## Python 
 
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [Pica4x6/SecurePreferencesFile](https://github.com/Pica4x6/SecurePreferencesFile) - 
 - [asaurusrex/Silent_Chrome](https://github.com/asaurusrex/Silent_Chrome) - This code silently installs Chrome extensions on Mac, Windows, and Linux
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
