@@ -496,7 +496,7 @@
 
 ## Nushell 
 
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - zellij, yazi with nushell/lua scripting add a File Tree to Helix or your prefered editor. An IDE-like experience, in the terminal. Single dependency: nix!
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
 
 ## Others 
 
