@@ -1499,8 +1499,10 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
 - [sadanandpai/javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) - 🚀 An open source project management platform focused on simplicity and efficiency. Self-host it, customize it, make it yours.
 - [nuxt-community/axios-module](https://github.com/nuxt-community/axios-module) - Secure and easy axios integration for Nuxt 2
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
