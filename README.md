@@ -506,7 +506,6 @@
 - [arthurspk/guiadecybersecurity](https://github.com/arthurspk/guiadecybersecurity) - Esse guia contém todas as informações necessárias para se introduzir na área de segurança da informação, dessa maneira, você encontrará, cursos, indicações de livros, roadmaps, playlists, certificaçõe
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 - [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions) - A collection of full time roles in SWE, Quant, and PM for new grads.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [GoodM4ven/EXTENSION_VSC_community-material-theme-darker-high-contrast](https://github.com/GoodM4ven/EXTENSION_VSC_community-material-theme-darker-high-contrast) - A standalone version of the Community Material Darker High Contrast theme — preserved for fans of the original, now available for VSCodium via VSX.
@@ -999,7 +998,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [AnWeber/vscode-httpyac](https://github.com/AnWeber/vscode-httpyac) - Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code
-- [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
+- [TanStack/db](https://github.com/TanStack/db) - The reactive client store for your API.
 - [TanStack/form](https://github.com/TanStack/form) - 🤖 Headless, performant, and type-safe form state management for TS/JS, React, Vue, Angular, Solid, and Lit.
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
