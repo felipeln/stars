@@ -407,7 +407,6 @@
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [CanadaHonk/porffor](https://github.com/CanadaHonk/porffor) - An ahead-of-time JavaScript compiler
 - [kaliiiiiiiiii/Selenium-Profiles](https://github.com/kaliiiiiiiiii/Selenium-Profiles) - undetected Selenium using chromedriver and emulation / device profiles
@@ -894,6 +893,7 @@
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
