@@ -456,7 +456,7 @@
 ## Jupyter Notebook 
 
 - [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory
-- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation.
+- [VectorSpaceLab/OmniGen2](https://github.com/VectorSpaceLab/OmniGen2) - OmniGen2: Exploration to Advanced Multimodal Generation. https://arxiv.org/abs/2506.18871
 
 ## Kotlin 
 
