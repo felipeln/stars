@@ -373,6 +373,7 @@
 
 ## HTML 
 
+- [0xbitx/Hacking-guide](https://github.com/0xbitx/Hacking-guide) - 
 - [rohitg00/awesome-ai-apps](https://github.com/rohitg00/awesome-ai-apps) - A curated collection of awesome AI Agents and LLM Apps built with multiple tech stacks, showcasing real-world implementations using OpenAI, Gemini, local models, and various AI frameworks.
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
