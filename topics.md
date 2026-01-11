@@ -2417,6 +2417,7 @@
 
 ## others 
 
+- [0xbitx/Hacking-guide](https://github.com/0xbitx/Hacking-guide) - 
 - [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [aleenzz/ChromeExtensionInstall](https://github.com/aleenzz/ChromeExtensionInstall) - Silently Install Chrome Extension For Persistence
