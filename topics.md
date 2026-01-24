@@ -2420,7 +2420,7 @@
 
 - [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt) - A unified API for trading across prediction markets.
 - [banteg/agents](https://github.com/banteg/agents) - my workflows for ai agents like codex and claude
-- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [0xbitx/Hacking-guide](https://github.com/0xbitx/Hacking-guide) - 
 - [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
