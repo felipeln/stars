@@ -302,7 +302,7 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection with ease.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, scraping, and bypassing bot-detection.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -412,7 +412,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
+- [bartoostveen/ViTune](https://github.com/bartoostveen/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -1916,7 +1916,7 @@
 
 ## kotlin 
 
-- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
+- [bartoostveen/ViTune](https://github.com/bartoostveen/ViTune) - An Android application for seamless music streaming
 
 ## kubernetes 
 
@@ -2211,7 +2211,7 @@
 
 ## music 
 
-- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
+- [bartoostveen/ViTune](https://github.com/bartoostveen/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 
@@ -2806,7 +2806,7 @@
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [gaphor/gaphor](https://github.com/gaphor/gaphor) - Gaphor is the simple modeling tool
 - [ttlns/Selenium-Interceptor](https://github.com/ttlns/Selenium-Interceptor) - Intercept request using Selenium with Chrome
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, and bypassing bot-detection with ease.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python APIs for web automation, testing, scraping, and bypassing bot-detection.
 - [ttlns/Selenium-Profiles](https://github.com/ttlns/Selenium-Profiles) - undetected Selenium using chromedriver and emulation / device profiles
 - [hansalemaos/cyandroemu](https://github.com/hansalemaos/cyandroemu) - Android Automation Framework for Python on emulators (BlissOs, BlueStacks, LDPlayer, Memu, Mumu, Android Studio ...) and rooted devices WITHOUT ADB!
 - [JaidedAI/EasyOCR](https://github.com/JaidedAI/EasyOCR) - Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.
@@ -3693,7 +3693,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [YouTube-Enhancer/extension](https://github.com/YouTube-Enhancer/extension) - A browser extension to enhance YouTube
-- [25huizengek1/ViTune](https://github.com/25huizengek1/ViTune) - An Android application for seamless music streaming
+- [bartoostveen/ViTune](https://github.com/bartoostveen/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
