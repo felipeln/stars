@@ -155,7 +155,7 @@
 - [WalletWasabi/WalletWasabi](https://github.com/WalletWasabi/WalletWasabi) - Open-source, non-custodial, privacy preserving Bitcoin wallet for Windows, Linux, and Mac.
 - [woolball-xyz/woolball-server](https://github.com/woolball-xyz/woolball-server) - Your own browser-based inference infrastructure by turning idle browsers into compute nodes.
 - [skills/secure-repository-supply-chain](https://github.com/skills/secure-repository-supply-chain) - Secure your supply chain, understand dependencies in your environment, know about vulnerabilities in those dependencies and patch them
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [U-C-S/Hurl](https://github.com/U-C-S/Hurl) - Choose the browser on the click of a link
 - [mortenn/BrowserPicker](https://github.com/mortenn/BrowserPicker) - Smart browser selector for Windows
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
@@ -883,7 +883,7 @@
 
 ## TypeScript 
 
-- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt) - CCXT for prediction markets. A unified API for trading on Polymarket, Kalshi, and more.
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run
 - [browserbase/mcp-server-browserbase](https://github.com/browserbase/mcp-server-browserbase) - Allow LLMs to control a browser with Browserbase and Stagehand
