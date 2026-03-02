@@ -494,7 +494,7 @@
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [bablosoft/BAS](https://github.com/bablosoft/BAS) - BrowserAutomationStudio can automate everything that Chrome can.
 - [undetectable-io/Undetectable-profile-creation-Selenium](https://github.com/undetectable-io/Undetectable-profile-creation-Selenium) - How to create Undetectable profiles with API, set proxies in profiles and connect them with Selenium using Python
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [bablosoft/browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints) - Anonymous automation with fingerprint replacement technology.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -642,7 +642,7 @@
 - [Open-Trader/opentrader](https://github.com/Open-Trader/opentrader) - 🤖 Open-source crypto trading bot | 📈 DCA & GRID strategies | ✨ UI | ⭐ Star to support the project!
 - [hansalemaos/cyandrocel](https://github.com/hansalemaos/cyandrocel) - Android Automation Framework for real devices without root access with multiple backends (uiautomator, uiautomator2, fragment parser, tesseract ...)!
 - [bablosoft/BAS](https://github.com/bablosoft/BAS) - BrowserAutomationStudio can automate everything that Chrome can.
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 
 ## bugbounty 
 
@@ -730,7 +730,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [bablosoft/browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints) - Anonymous automation with fingerprint replacement technology.
 - [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
 
@@ -885,7 +885,7 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
 - [scrapfly/scrapfly-scrapers](https://github.com/scrapfly/scrapfly-scrapers) - Scalable Python web scraping scripts for +40 popular domains
 
@@ -1285,7 +1285,7 @@
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-- [kameleo-io/local-api-examples](https://github.com/kameleo-io/local-api-examples) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
+- [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Easy-to-follow examples in Python, Node.js, and C# for web automation & multi-accounting with Kameleo anti-detect browser.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
 
@@ -2434,7 +2434,7 @@
 
 ## others 
 
-- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
+- [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform GUI for rclone & S3.
 - [brave/adblock-lists](https://github.com/brave/adblock-lists) - Maintains adblock lists that Brave uses
 - [pmxt-dev/pmxt](https://github.com/pmxt-dev/pmxt) - CCXT for prediction markets. A unified API for trading on Polymarket, Kalshi, and more.
 - [banteg/agents](https://github.com/banteg/agents) - my workflows for ai agents like codex and claude
