@@ -2471,6 +2471,7 @@
 
 ## others 
 
+- [34306/vphone-aio](https://github.com/34306/vphone-aio) - 1 script run the vphone
 - [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 - [mermo-code/Obsidian-Home-Page](https://github.com/mermo-code/Obsidian-Home-Page) - Full Tutorial on Adding Homepage seen on Reddit to your vault
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
