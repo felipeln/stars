@@ -760,7 +760,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [blockworks-foundation/lite-rpc](https://github.com/blockworks-foundation/lite-rpc) - This is a solana lite rpc which optimizes sending transactions and confirming transactions strategies.
 - [rylev/rust-workshop](https://github.com/rylev/rust-workshop) - Beginners Rust Workshop
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Zellij, Yazi with Nushell and Lua scripting add a File Tree to Helix (or your prefered editor). An IDE-like experience, in the terminal. With nix as the only dependency.
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazi and Zellij with smart defaults and plugins give helix/nvim a powerful yazi sidebar, the best plugins, git integrations, a zellij popup system (with lazygit as default), zoxide integrations, a con
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [lumehq/coop](https://github.com/lumehq/coop) - Chat Freely, Stay Private on Nostr.
