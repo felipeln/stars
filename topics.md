@@ -2665,7 +2665,7 @@
 - [Neko-Box-Coder/unofficial-plugin-channel](https://github.com/Neko-Box-Coder/unofficial-plugin-channel) - Fork of the fork of the micro editor plugins channel
 - [mortenn/BrowserPicker](https://github.com/mortenn/BrowserPicker) - Smart browser selector for Windows
 - [fdellwing/zsh-bat](https://github.com/fdellwing/zsh-bat) - 
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [wandrey7/clonechat](https://github.com/wandrey7/clonechat) - Fork do clonechat
 - [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
 - [Drrivao/Clonechat-Telegram-Colab](https://github.com/Drrivao/Clonechat-Telegram-Colab) - Clone canais do telegram com o Google Colaboratory.
