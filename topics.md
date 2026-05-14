@@ -2269,6 +2269,7 @@
 
 ## music 
 
+- [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [bartoostveen/ViTune](https://github.com/bartoostveen/ViTune) - An Android application for seamless music streaming
 - [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
@@ -2495,6 +2496,7 @@
 
 ## others 
 
+- [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider's Guide
 - [malucodes/Certification-Badge-README](https://github.com/malucodes/Certification-Badge-README) - 
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
@@ -3093,6 +3095,7 @@
 
 ## rust 
 
+- [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink) - NativeLink is a Nix-powered, open source, high-performance build cache and remote execution server, compatible with Bazel, Soong, Pants, Buck2, Reclient, and other RE-compatible build systems. It offe
@@ -3356,6 +3359,7 @@
 
 ## tailwind 
 
+- [Kopuz-org/kopuz](https://github.com/Kopuz-org/kopuz) - Your next music player
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 
