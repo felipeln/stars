@@ -460,6 +460,7 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [Windows87/guia-basico-javascript](https://github.com/Windows87/guia-basico-javascript) - Guia abordando alguns Recursos Básicos do Javascript
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [braziljs/eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Tradução do livro "Eloquent JavaScript" 4ª edição, por Marijn Haverbeke
 - [Chalarangelo/30-seconds-of-interviews](https://github.com/Chalarangelo/30-seconds-of-interviews) - A curated collection of common interview questions to help you prepare for your next interview.
 
 ## Julia 
@@ -593,7 +594,6 @@
 - [CollabCodeTech/backend-challenges](https://github.com/CollabCodeTech/backend-challenges) - A public list of open-source challenges from jobs around the world
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [perifacode/conteudo-gratuito](https://github.com/perifacode/conteudo-gratuito) - 📌 Conteúdos gratuitos compartilhados pela comunidade.
-- [braziljs/eloquente-javascript](https://github.com/braziljs/eloquente-javascript) - Tradução do livro Eloquent JavaScript - 2ª edição.
 - [wbinnssmith/awesome-promises](https://github.com/wbinnssmith/awesome-promises) - A curated list of useful resources for JavaScript Promises
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
@@ -854,6 +854,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [rochacbruno/marmite](https://github.com/rochacbruno/marmite) - Markdown makes sites - A Static Site Generator for Blogs
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## SVG 
 
@@ -925,7 +926,6 @@
 - [Vexa-ai/vexa](https://github.com/Vexa-ai/vexa) - Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, cont
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -988,6 +988,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
@@ -1089,7 +1090,6 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 - [TheAlgorithms/Zig](https://github.com/TheAlgorithms/Zig) - Collection of Algorithms implemented in Zig.
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
