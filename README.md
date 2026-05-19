@@ -94,7 +94,7 @@
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie Plus & Classic
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - All pull requests are ignored, please use MRs on https://code.videolan.org/videolan/vlc
+- [videolan/vlc](https://github.com/videolan/vlc) - VLC media player - plays everything, runs anywhere. Code here: https://code.videolan.org/videolan/vlc
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
@@ -172,7 +172,7 @@
 - [hansalemaos/uiautomator2_autostart_server](https://github.com/hansalemaos/uiautomator2_autostart_server) - Runs Uiautomator2 on multiple ADB devices, and checks periodically checking each device's status
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
-- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows User Space Emulator
+- [momo5502/sogen](https://github.com/momo5502/sogen) - 🪅 Windows & Linux Userspace Emulator
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
@@ -660,7 +660,7 @@
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
 - [ttlns/Selenium-Interceptor](https://github.com/ttlns/Selenium-Interceptor) - Intercept request using Selenium with Chrome
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - APIs for browser automation, testing, and bypassing bot-detection.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for stealthy Chromium automation with CDP Mode. Includes CAPTCHA-bypass, E2E Testing, and a Playwright integration.
 - [hansalemaos/bet365_web_scraping](https://github.com/hansalemaos/bet365_web_scraping) - Ainda tem como raspar dados do site bet365.com - tutorial educacional (SeleniumBase / ADB) - 2023
 - [hansalemaos/locate_pixelcolor_cythonsingle](https://github.com/hansalemaos/locate_pixelcolor_cythonsingle) - Compiled Cython Code - Detects colors in images 2-3 x faster than Numpy
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -797,7 +797,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -966,7 +966,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - LobeHub organizes your agents into 7×24 operation. It hires, schedules, reports on your entire AI team. You stay in charge — without staying online.
+- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [reduxjs/redux](https://github.com/reduxjs/redux) - A JS library for predictable global state management
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
