@@ -414,7 +414,6 @@
 - [zhuyingda/webster](https://github.com/zhuyingda/webster) - a reliable high-level web crawling & scraping framework for Node.js.
 - [silexlabs/Silex](https://github.com/silexlabs/Silex) - Silex is an online tool for visually creating static sites with dynamic data. With the free/libre spirit of internet, together.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) - Nortix Mail - disposable email server with an easy setup
 - [sheshbabu/zen](https://github.com/sheshbabu/zen) - Selfhosted notes app. Single golang binary, notes stored as markdown within SQLite, full-text search, very low resource usage
 - [nextcloud/tasks](https://github.com/nextcloud/tasks) - :white_check_mark: Tasks app for Nextcloud
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
@@ -885,6 +884,7 @@
 ## Svelte 
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
+- [Zhoros/NortixMail](https://github.com/Zhoros/NortixMail) - Nortix Mail - disposable email server with an easy setup
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [bonartm/quizdown-js](https://github.com/bonartm/quizdown-js) - Markdown syntax for generating interactive quizzes in the browser
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
