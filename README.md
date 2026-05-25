@@ -163,7 +163,7 @@
 ## C++ 
 
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
-- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache
+- [squid-cache/squid](https://github.com/squid-cache/squid) - Squid Web Proxy Cache - Source Code
 - [Kam1k4dze/SubChat](https://github.com/Kam1k4dze/SubChat) - SubChat is a command-line and GUI toolset for generating YouTube subtitles from chat logs.
 - [infiniflow/infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text.
 - [blender/blender](https://github.com/blender/blender) - Official mirror of Blender
