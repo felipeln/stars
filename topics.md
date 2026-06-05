@@ -1676,7 +1676,6 @@
 - [logchimp/logchimp](https://github.com/logchimp/logchimp) - 🔥 🔥 🔥 Open Source Canny, ProductBoard, UserJot Alternative. Track your customers feedback to build better products with LogChimp. ⭐️ Star to support our work!
 - [JuliaLang/julia](https://github.com/JuliaLang/julia) - The Julia Programming Language
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for 
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -2866,7 +2865,7 @@
 
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [kevinheavey/solders](https://github.com/kevinheavey/solders) - A high-performance Python toolkit for Solana, written in Rust
 - [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
@@ -2941,7 +2940,7 @@
 ## python3 
 
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [scrapy-plugins/scrapy-playwright](https://github.com/scrapy-plugins/scrapy-playwright) - 🎭 Playwright integration for Scrapy
@@ -3389,7 +3388,7 @@
 
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [vognik/maltego-telegram](https://github.com/vognik/maltego-telegram) - 🔎 OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
@@ -3397,7 +3396,7 @@
 
 ## telegram-bot 
 
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 
 ## tensorflow 
 
