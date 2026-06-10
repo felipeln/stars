@@ -158,7 +158,7 @@
 - [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Anti-detect browser for web scraping and automation. Engine-level fingerprint masking for Chromium and Firefox. Self-hosted, Docker-ready. Integrates with Selenium, Playwright, and Puppeteer via SDKs 
 - [U-C-S/Hurl](https://github.com/U-C-S/Hurl) - Choose the browser on the click of a link
 - [mortenn/BrowserPicker](https://github.com/mortenn/BrowserPicker) - Smart browser selector for Windows
-- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+- [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 
 ## C++ 
 
@@ -180,7 +180,7 @@
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
+- [react/react-native](https://github.com/react/react-native) - A framework for building native applications using React
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
@@ -716,7 +716,7 @@
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [handrew/browserpilot](https://github.com/handrew/browserpilot) - Natural language browser automation
 - [uxumax/docker-wine-chrome-nodriver](https://github.com/uxumax/docker-wine-chrome-nodriver) - This project facilitates running a Windows Chrome antidetect browser using the Nodriver automation library within a Docker Linux container with Wine. This setup eliminates the need for a Windows virtu
