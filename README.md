@@ -565,7 +565,6 @@
 - [Universidade-Livre/traduz-ai](https://github.com/Universidade-Livre/traduz-ai) - :pencil: Coleção de artigos de desenvolvimento de software traduzidos para pt-br
 - [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) - 🎓 Um caminho para a educação autodidata em Ciência da Computação!
 - [KevinColemanInc/awesome-privacy](https://github.com/KevinColemanInc/awesome-privacy) - 💡Limiting personal data leaks on the internet
-- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [thedaviddias/Front-End-Design-Checklist](https://github.com/thedaviddias/Front-End-Design-Checklist) - 💎 The Design Checklist for Creative Web Designers and Patient Front-End Developers
 - [thedaviddias/Front-End-Performance-Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) - 🎮 The only Front-End Performance Checklist that runs faster than the others
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
@@ -638,7 +637,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [vognik/maltego-telegram](https://github.com/vognik/maltego-telegram) - 🔎 OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -736,6 +735,7 @@
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis) - A collective list of free APIs
 - [kelvins/algorithms-and-data-structures](https://github.com/kelvins/algorithms-and-data-structures) - :abacus: Algorithms and Data Structures in several Programming Languages
 - [pluja/rokokeys](https://github.com/pluja/rokokeys) - Backup your crypto wallet mnemonic seeds in a safe way.
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
