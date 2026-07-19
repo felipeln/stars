@@ -636,7 +636,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [vognik/maltego-telegram](https://github.com/vognik/maltego-telegram) - 🔎 OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
 - [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Summer 2026 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative for AI agents. Research the open web with live data connectors for Reddit, YouTube, Amazon, Google Maps, and Google Search, through one API or MCP server. Join our D
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data, through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9
 - [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply th
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -759,7 +759,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [blockworks-foundation/lite-rpc](https://github.com/blockworks-foundation/lite-rpc) - This is a solana lite rpc which optimizes sending transactions and confirming transactions strategies.
 - [rylev/rust-workshop](https://github.com/rylev/rust-workshop) - Beginners Rust Workshop
-- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova: a cohesive terminal workspace built around Mars, Zellij, Yazi, Helix, and Nushell
+- [luccahuguet/yazelix](https://github.com/luccahuguet/yazelix) - Yazelix Nova is a Nix-packaged, popup-oriented terminal workspace for local use and SSH. It combines Mars (a Rio-derived terminal emulator) with Yazelix-owned Zellij and Helix forks, Yazi, Nushell, La
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [lumehq/coop](https://github.com/lumehq/coop) - Chat Freely, Stay Private on Nostr.
