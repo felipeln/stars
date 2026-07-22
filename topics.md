@@ -772,7 +772,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Anti-detect browser for web scraping and automation. Engine-level fingerprint masking for Chromium and Firefox. Self-hosted, Docker-ready. Integrates with Selenium, Playwright, and Puppeteer via SDKs 
 - [bablosoft/browser-with-fingerprints](https://github.com/bablosoft/browser-with-fingerprints) - Anonymous automation with fingerprint replacement technology.
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 
 ## chrome-extension 
 
@@ -1369,7 +1369,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [kameleo-io/kameleo](https://github.com/kameleo-io/kameleo) - Anti-detect browser for web scraping and automation. Engine-level fingerprint masking for Chromium and Firefox. Self-hosted, Docker-ready. Integrates with Selenium, Playwright, and Puppeteer via SDKs 
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 
 ## flask 
 
@@ -2108,6 +2108,7 @@
 - [FreshTomato-Project/freshtomato-ax](https://github.com/FreshTomato-Project/freshtomato-ax) - Alternative open source firmware for Broadcom based routers
 - [FreshTomato-Project/freshtomato-arm](https://github.com/FreshTomato-Project/freshtomato-arm) - Alternative open source firmware for Broadcom based routers (ARM)
 - [FreshTomato-Project/freshtomato-mips](https://github.com/FreshTomato-Project/freshtomato-mips) - Alternative open source firmware for Broadcom based routers (MIPS)
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 - [oculix-org/SikuliX1](https://github.com/oculix-org/SikuliX1) - SikuliX version 2.0.0+ (2019+)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -3775,7 +3776,7 @@
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 - [U-C-S/Hurl](https://github.com/U-C-S/Hurl) - Choose the browser on the click of a link
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
