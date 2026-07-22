@@ -187,7 +187,7 @@
 - [FPEsocrter/openFpchromium](https://github.com/FPEsocrter/openFpchromium) - openFpchromium,支援 chromium 开发 开源指纹游览器
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [uazo/cromite](https://github.com/uazo/cromite) - Cromite a Bromite fork with ad blocking and privacy enhancements; take back your browser!
-- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows with autodetection, rules, scripting. 100% local, no tracking, no registration.
+- [aloneguid/bt](https://github.com/aloneguid/bt) - Browser Tamer - browser proxy for Windows and Linux with autodetection, rules, scripting. 100% local, no tracking, no registration.
 - [hedge-dev/UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [Jmgr/actiona](https://github.com/Jmgr/actiona) - Actiona 3: cross-platform automation tool
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
