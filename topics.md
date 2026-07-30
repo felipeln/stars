@@ -2074,7 +2074,7 @@
 - [hydrogram/hydrogram](https://github.com/hydrogram/hydrogram) - Sleek, advanced, and asynchronous Telegram MTProto API framework in Python, designed for fluid user and bot interactions.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
 - [pcaversaccio/snekmate](https://github.com/pcaversaccio/snekmate) - State-of-the-art, highly opinionated, hyper-optimised, and secure 🐍Vyper smart contract building blocks.
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 
 ## linux 
@@ -3012,7 +3012,7 @@
 
 - [caamer20/Telegram-Drive](https://github.com/caamer20/Telegram-Drive) - Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.
 - [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [garden-co/classic-jazz](https://github.com/garden-co/classic-jazz) - A new kind of database that's distributed across your frontend, containers, serverless functions and its own storage cloud.
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - A calm, open system for organizing life and work. Tasks, projects, notes, areas, and smart workflows - self-hosted or hosted.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
@@ -3384,7 +3384,7 @@
 ## svelte 
 
 - [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -3580,7 +3580,7 @@
 
 ## ui 
 
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -3652,7 +3652,7 @@
 ## vue 
 
 - [activist-org/activist](https://github.com/activist-org/activist) - An open-source activism platform
-- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
+- [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue, Svelte or Vanilla. Powered by finite state machines
 - [apertureless/vue-chartjs](https://github.com/apertureless/vue-chartjs) - 📊  Vue.js wrapper for Chart.js
 - [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
