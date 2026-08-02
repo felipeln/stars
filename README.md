@@ -270,7 +270,7 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [thewizardshell/froggit](https://github.com/thewizardshell/froggit) - Simplify your Git workflow with visual feedback, keyboard-driven controls, and a streamlined experience.
 - [bkupidura/dead-man-hand](https://github.com/bkupidura/dead-man-hand) - DMH will execute action when you will not be able to. Dead-man-switch software with privacy in mind.
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [probonopd/go-appimage](https://github.com/probonopd/go-appimage) - Go implementation of AppImage tools
